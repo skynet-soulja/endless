@@ -1,5 +1,5 @@
 header {
-  background-color: #222222;
+  background-color: var(--secondary-color);
   height: 5.2vh;
 }
 
