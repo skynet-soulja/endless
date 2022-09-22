@@ -1,8 +1,62 @@
+@font-face {
+  font-family: "LatoBlack";
+  src: local("LatoBlack"), url("./fonts/Lato-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoBlackItalic";
+  src: local("LatoBlackItalic"),
+    url("./fonts/Lato-BlackItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoBold";
+  src: local("LatoBold"), url("./fonts/Lato-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoBoldItalic";
+  src: local("LatoBoldItalic"),
+    url("./fonts/Lato-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoItalic";
+  src: local("LatoItalic"), url("./fonts/Lato-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoLight";
+  src: local("LatoLight"), url("./fonts/Lato-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoLightItalic";
+  src: local("LatoLightItalic"),
+    url("./fonts/Lato-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoRegular";
+  src: local("LatoRegular"), url("./fonts/Lato-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoThin";
+  src: local("LatoThin"), url("./fonts/Lato-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "LatoThinItalic";
+  src: local("LatoThinItalic"),
+    url("./fonts/Lato-ThinItalic.ttf") format("truetype");
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: LatoRegular, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
