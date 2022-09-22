@@ -1,0 +1,49 @@
+main {
+  position: relative;
+  height: 90vh;
+  color: #fff;
+}
+
+.main-photo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+  width: 100%;
+  max-height: 87vh;
+}
+
+.main-horizontal-split {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 70vw;
+  width: 100%;
+  max-height: 87vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-horizontal-split > .gutter {
+  padding-top: 20vh;
+}
+
+.main-h3 {
+  font-family: LatoThin;
+  letter-spacing: 0.08rem;
+}
+
+.main-h1 {
+  font-family: LatoThin;
+  font-size: 2.75rem;
+  letter-spacing: 0.13rem;
+  line-height: 3.6rem;
+}
+
+.main-p {
+  font-family: LatoLight;
+  max-width: 480px;
+  line-height: 1.8rem;
+  margin-bottom: 1.2em;
+}
