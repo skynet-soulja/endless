@@ -9,7 +9,7 @@ export function Main() {
   return (
     <main
       style={{
-        backgroundImage: `image-set(url(${photoCouch}) 1x, url(${photoCouchLarge}) 2x)`,
+        backgroundImage: `-webkit-image-set(url(${photoCouch}) 1x, url(${photoCouchLarge}) 2x)`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
