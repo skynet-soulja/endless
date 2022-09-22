@@ -1,5 +1,5 @@
 import "./Button.css";
 
 export function Button() {
-  return <button>Get Started</button>;
+  return <button className="button">Get Started</button>;
 }

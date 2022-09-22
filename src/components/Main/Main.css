@@ -1,4 +1,4 @@
-main {
+.main {
   position: relative;
   height: 90vh;
   color: #fff;
@@ -13,7 +13,7 @@ main {
   max-height: 87vh;
 }
 
-.main-horizontal-split {
+.main-container {
   position: absolute;
   top: 0;
   left: 0;
@@ -25,7 +25,7 @@ main {
   justify-content: center;
 }
 
-.main-horizontal-split > .gutter {
+.main-container > .gutter {
   padding-top: 20vh;
 }
 

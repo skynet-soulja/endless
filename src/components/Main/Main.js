@@ -8,13 +8,14 @@ import { Button } from "../Button";
 export function Main() {
   return (
     <main
+      className="main"
       style={{
         backgroundImage: `-webkit-image-set(url(${photoCouch}) 1x, url(${photoCouchLarge}) 2x)`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
     >
-      <div className="main-horizontal-split">
+      <div className="main-container">
         <div className="gutter">
           <h3 className="main-h3">New Games & Accessories</h3>
           <h1 className="main-h1">

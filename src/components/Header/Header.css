@@ -1,9 +1,9 @@
-header {
+.header {
   background-color: var(--secondary-color);
   height: 5.2vh;
 }
 
-header > .gutter {
+.header > .gutter {
   height: 100%;
   display: flex;
   justify-content: flex-start;

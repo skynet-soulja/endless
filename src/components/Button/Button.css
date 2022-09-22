@@ -1,4 +1,4 @@
-button {
+.button {
   background-color: var(--main-color);
   text-transform: uppercase;
   font-family: LatoBold;
@@ -11,11 +11,7 @@ button {
   transition: all 0.3s ease;
 }
 
-button:hover {
+.button:hover {
   cursor: pointer;
   filter: brightness(115%);
 }
-/* 
-button:active {
-
-} */
