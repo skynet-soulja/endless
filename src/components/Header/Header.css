@@ -1,11 +1,16 @@
-.logo {
-  max-height: 26px;
-  pointer-events: none;
-  margin: 15px 0;
+header {
+  background-color: #222222;
+  height: 5.2vh;
 }
 
-header {
-  background-color: rgb(34, 34, 34);
-  max-height: 100px;
-  height: 10%;
+header > .gutter {
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo {
+  max-height: 35%;
+  pointer-events: none;
 }
