@@ -1,0 +1,11 @@
+.logo {
+  max-height: 26px;
+  pointer-events: none;
+  margin: 15px 0;
+}
+
+header {
+  background-color: rgb(34, 34, 34);
+  max-height: 100px;
+  height: 10%;
+}
