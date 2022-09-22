@@ -15,3 +15,14 @@
   cursor: pointer;
   filter: brightness(115%);
 }
+
+.button:active {
+  animation: shadow 0.5s;
+  box-shadow: 0 0 0 1em transparent;
+}
+
+@keyframes shadow {
+  0% {
+    box-shadow: 0 0 0 0 var(--main-color);
+  }
+}
