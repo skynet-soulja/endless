@@ -4,7 +4,7 @@
 
 .section-h3 {
   font-family: LatoLight;
-  font-size: 2rem;
+  font-size: 1.6rem;
   letter-spacing: 0.1rem;
   text-align: center;
   margin: 2.5rem 0;
@@ -43,12 +43,6 @@
 .step-p {
   font-size: 0.8rem;
   line-height: 1.2rem;
-}
-
-@media (max-width: 1024px) {
-}
-
-@media (max-width: 768px) {
 }
 
 @media (max-width: 480px) {
