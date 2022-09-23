@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.133e887c.css",
+    "main.js": "/static/js/main.d2a31714.js",
+    "static/js/787.7cf353e8.chunk.js": "/static/js/787.7cf353e8.chunk.js",
+    "static/media/photo-couch_2x.jpg": "/static/media/photo-couch_2x.0db18f79ef0042a56edd.jpg",
+    "static/media/photo-couch.jpg": "/static/media/photo-couch.849417d95eeab9296564.jpg",
+    "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/Lato-BlackItalic.ttf": "/static/media/Lato-BlackItalic.09fc285661e54addb1fd.ttf",
+    "static/media/Lato-Thin.ttf": "/static/media/Lato-Thin.5a60dde25d817751d590.ttf",
+    "static/media/Lato-Black.ttf": "/static/media/Lato-Black.57dee8aface5572f9101.ttf",
+    "static/media/Lato-LightItalic.ttf": "/static/media/Lato-LightItalic.4310bbed01b37dfcee98.ttf",
+    "static/media/Lato-ThinItalic.ttf": "/static/media/Lato-ThinItalic.42a616fcfc8a08caef71.ttf",
+    "static/media/logo-endless.svg": "/static/media/logo-endless.5aa60285d7d4fe133ad8fbcc988b5f45.svg",
+    "index.html": "/index.html",
+    "main.133e887c.css.map": "/static/css/main.133e887c.css.map",
+    "main.d2a31714.js.map": "/static/js/main.d2a31714.js.map",
+    "787.7cf353e8.chunk.js.map": "/static/js/787.7cf353e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133e887c.css",
+    "static/js/main.d2a31714.js"
+  ]
+}
