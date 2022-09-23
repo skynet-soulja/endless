@@ -1,1 +1,1 @@
-export { Section } from "./Section";
+export { Section, sortAndSimplifySteps } from "./Section";
