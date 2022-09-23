@@ -1,0 +1,37 @@
+.section {
+  padding-bottom: 2rem;
+}
+
+.section-h3 {
+  font-family: LatoLight;
+  font-size: 31px;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+.step-list {
+  list-style: none;
+  display: flex;
+  text-align: center;
+}
+
+.step {
+  margin: 0 0.5rem;
+}
+
+.step-h1-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.step-h1 {
+  font-size: 3rem;
+  margin: 0;
+  border-bottom: solid 0.3rem var(--main-color);
+}
+
+.step-p {
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+}
