@@ -4,7 +4,7 @@
 
 .section-h3 {
   font-family: LatoLight;
-  font-size: 31px;
+  font-size: 2rem;
   letter-spacing: 0.1rem;
   text-align: center;
   margin: 2.5rem 0;
@@ -12,12 +12,21 @@
 
 .step-list {
   list-style: none;
+  padding-left: 0;
   display: flex;
+  flex-wrap: wrap;
   text-align: center;
 }
 
 .step {
   margin: 0 0.5rem;
+  flex: 1 1 240px;
+  display: flex;
+  justify-content: center;
+}
+
+.step-container {
+  max-width: 240px;
 }
 
 .step-h1-wrapper {
@@ -34,4 +43,16 @@
 .step-p {
   font-size: 0.8rem;
   line-height: 1.2rem;
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 480px) {
+  .section-h3 {
+    font-size: 1.5rem;
+  }
 }

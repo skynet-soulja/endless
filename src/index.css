@@ -55,6 +55,9 @@
 :root {
   --main-color: #50e3c2;
   --secondary-color: rgb(34, 34, 34);
+  --screen-md-limit: 1024px;
+  --screen-sm-limit: 768px;
+  --screen-xsm-limit: 480px;
 }
 
 html {
@@ -77,4 +80,30 @@ code {
 
 .gutter {
   margin: 0 15.5vw;
+}
+
+@media (max-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+
+  .gutter {
+    margin: 0 12vw;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+  .gutter {
+    margin: 0 10vw;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
 }

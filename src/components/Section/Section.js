@@ -34,11 +34,13 @@ export function Section() {
           {steps.map((step) => {
             return (
               <li key={step.stepNumber} className="step">
-                <div className="step-h1-wrapper">
-                  <h1 className="step-h1">0{step.stepNumber}</h1>
+                <div className="step-container">
+                  <div className="step-h1-wrapper">
+                    <h1 className="step-h1">0{step.stepNumber}</h1>
+                  </div>
+                  <h4 className="step-h4">{step.title}</h4>
+                  <p className="step-p">{step.body}</p>
                 </div>
-                <h4 className="step-h4">{step.title}</h4>
-                <p className="step-p">{step.body}</p>
               </li>
             );
           })}
