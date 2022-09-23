@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/endless/static/css/main.5dd194c8.css",
+    "main.css": "/endless/static/css/main.7e23fd7e.css",
     "main.js": "/endless/static/js/main.b159d698.js",
     "static/js/787.7cf353e8.chunk.js": "/endless/static/js/787.7cf353e8.chunk.js",
     "static/media/photo-couch_2x.jpg": "/endless/static/media/photo-couch_2x.0db18f79ef0042a56edd.jpg",
@@ -17,12 +17,12 @@
     "static/media/Lato-ThinItalic.ttf": "/endless/static/media/Lato-ThinItalic.42a616fcfc8a08caef71.ttf",
     "static/media/logo-endless.svg": "/endless/static/media/logo-endless.5aa60285d7d4fe133ad8fbcc988b5f45.svg",
     "index.html": "/endless/index.html",
-    "main.5dd194c8.css.map": "/endless/static/css/main.5dd194c8.css.map",
+    "main.7e23fd7e.css.map": "/endless/static/css/main.7e23fd7e.css.map",
     "main.b159d698.js.map": "/endless/static/js/main.b159d698.js.map",
     "787.7cf353e8.chunk.js.map": "/endless/static/js/787.7cf353e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dd194c8.css",
+    "static/css/main.7e23fd7e.css",
     "static/js/main.b159d698.js"
   ]
 }
